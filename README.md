@@ -15,4 +15,4 @@ just say that and exit. Otherwise, after a few minutes you should have a fresh .
 
 # Notes
 * I published a 'v1.0' release and I expect this one to be the only release ever - but you never know....so, feel free to create an issue or PR
-* * As Froosh published those files under GPL2, I picked GPL2 for this repository as well.
+* As Froosh published those files under GPL2, I picked GPL2 for this repository as well.
