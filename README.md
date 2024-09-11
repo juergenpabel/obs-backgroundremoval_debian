@@ -3,7 +3,7 @@ Simple script for building a Debian package for the OBS plugin "backgroundremova
 
 # Situation
 * Debian packages OBS (obs-studio) but lacks the popular plugin "backgroundremoval" (for removing/bluring background in video sources)
-* The author of the plugin "[backgroundremoval](https://github.com/locaal-ai/obs-backgroundremoval/)" doesn't provide .deb packages for Debian (but for Ubuntu)
+* The author of the plugin "[backgroundremoval](https://github.com/locaal-ai/obs-backgroundremoval/)" doesn't provide .deb packages for Debian (but for Ubuntu - they don't work due to multiple library version differences)
 * I don't like installing things with flatpak (images exist on flathub for both OBS and that plugin)
 
 # Solution
